@@ -4,7 +4,7 @@
 - [Executive summary](#executive-summary)
 - [Objectives] (#objectives)
 - [Methodology](#methodology)
-- [key Findings](#key findings)
+- [Key Findings](#key findings)
 - [Conclusions](#conclusions)
 - [Tools And Technologies Used](tools-technologies-used)
 
