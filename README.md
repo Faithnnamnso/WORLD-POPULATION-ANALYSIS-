@@ -35,6 +35,11 @@
 ## Conclusions
 The world population continues to grow, but the place differs across territories.
 Africa shows the fastest growth rate, signaling shifting demographic influence in the coming decades. understanding this trends is critical for planning sustainable development, resource management and economic policies. policy makers must address both growth opportunities and challenges posed by demographic changes.
+
+## Tools and Technologies Used
+Excel
+SQL server
+Power BI
    
     
    
