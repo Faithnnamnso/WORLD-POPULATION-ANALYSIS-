@@ -4,7 +4,9 @@
 - [Executive Summary](#executive-summary)
 - [Objectives](#objectives)
 - [Methodology](#methodology)
-- [Key Findings](#key findings)
+- [Key Findings](#key-findings)
+- [Conclusions](#conclusion)
+- [Tools And Technologies used](#tools-technologies-used)
 
   ## executive summary
 - The world Population Analysis project gives a comprehensive overview of how populations have changed around the world over the years.
