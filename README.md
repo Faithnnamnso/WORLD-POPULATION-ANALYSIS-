@@ -1,14 +1,12 @@
 # WORLD POPULATION ANALYSIS REPORT
 
 ## Table of Contents
-- [Executive summary](#executive-summary)
+- [Executive Summary](#executive-summary)
 - [Objectives](#objectives)
 - [Methodology](#methodology)
 - [Key Findings](#key findings)
-- [Conclusions](#conclusions)
-- [Tools And Technologies Used](tools-technologies-used)
 
-## executive summary
+  ## executive summary
 - The world Population Analysis project gives a comprehensive overview of how populations have changed around the world over the years.
 - It highlights pattern of growth, demographic shifts in people numbers and regional differences.
 - Using data from multiple decades, the project identifies countries with largest and smallest populations, compares population trends across continents. it shows the world population percentage and the total population of the year 2022 as 8bn
