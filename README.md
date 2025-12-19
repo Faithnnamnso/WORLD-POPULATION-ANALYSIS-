@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Executive summary](#executive-summary)
-- [Objectives] (#objectives)
+- [Objectives](#objectives)
 - [Methodology](#methodology)
 - [Key Findings](#key findings)
 - [Conclusions](#conclusions)
